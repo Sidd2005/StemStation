@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/StemStation/static/css/main.f9613f71.chunk.css",
+    "main.js": "/StemStation/static/js/main.62ca4387.chunk.js",
+    "main.js.map": "/StemStation/static/js/main.62ca4387.chunk.js.map",
+    "runtime~main.js": "/StemStation/static/js/runtime~main.09e896d5.js",
+    "runtime~main.js.map": "/StemStation/static/js/runtime~main.09e896d5.js.map",
+    "static/js/2.bba94bfb.chunk.js": "/StemStation/static/js/2.bba94bfb.chunk.js",
+    "static/js/2.bba94bfb.chunk.js.map": "/StemStation/static/js/2.bba94bfb.chunk.js.map",
+    "static/js/3.4f7c6bf9.chunk.js": "/StemStation/static/js/3.4f7c6bf9.chunk.js",
+    "static/js/3.4f7c6bf9.chunk.js.map": "/StemStation/static/js/3.4f7c6bf9.chunk.js.map",
+    "static/js/4.36a8893b.chunk.js": "/StemStation/static/js/4.36a8893b.chunk.js",
+    "static/js/4.36a8893b.chunk.js.map": "/StemStation/static/js/4.36a8893b.chunk.js.map",
+    "index.html": "/StemStation/index.html",
+    "precache-manifest.2e2bdc47bae56fb629572f6259895bfc.js": "/StemStation/precache-manifest.2e2bdc47bae56fb629572f6259895bfc.js",
+    "service-worker.js": "/StemStation/service-worker.js",
+    "static/css/main.f9613f71.chunk.css.map": "/StemStation/static/css/main.f9613f71.chunk.css.map",
+    "static/media/aboutpic.jpeg": "/StemStation/static/media/aboutpic.bb683d86.jpeg",
+    "static/media/logo-main.png": "/StemStation/static/media/logo-main.06f6f475.png",
+    "static/media/member1.jpeg": "/StemStation/static/media/member1.380347bc.jpeg",
+    "static/media/member2.jpeg": "/StemStation/static/media/member2.cac4f6e5.jpeg",
+    "static/media/slide1.jpeg": "/StemStation/static/media/slide1.09abe20f.jpeg",
+    "static/media/slide2.jpeg": "/StemStation/static/media/slide2.432bb54c.jpeg",
+    "static/media/slide3.jpeg": "/StemStation/static/media/slide3.0822292d.jpeg",
+    "static/media/statspic.png": "/StemStation/static/media/statspic.8508e554.png"
+  }
+}
